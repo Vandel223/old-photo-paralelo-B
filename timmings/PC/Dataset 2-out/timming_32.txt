@@ -1,0 +1,43 @@
+IST-1.jpeg		         13.31
+IST-9.jpeg		         13.84
+IST-8.jpeg		         13.86
+IST-2.jpeg		         14.08
+IST-6.jpeg		         14.63
+IST-5.jpeg		         14.74
+IST-7.jpeg		         14.78
+IST-0.jpeg		         14.81
+IST-4.jpeg		         14.85
+IST-3.jpeg		         19.08
+Thread_0 	 1	        13.31
+Thread_1 	 0	         0.00
+Thread_2 	 1	        14.09
+Thread_3 	 1	        19.08
+Thread_4 	 1	        14.86
+Thread_5 	 1	        14.74
+Thread_6 	 1	        14.63
+Thread_7 	 1	        14.78
+Thread_8 	 1	        13.86
+Thread_9 	 1	        13.84
+Thread_10 	 0	         0.00
+Thread_11 	 0	         0.00
+Thread_12 	 0	         0.00
+Thread_13 	 0	         0.00
+Thread_14 	 0	         0.00
+Thread_15 	 0	         0.00
+Thread_16 	 0	         0.00
+Thread_17 	 0	         0.00
+Thread_18 	 0	         0.00
+Thread_19 	 0	         0.00
+Thread_20 	 0	         0.00
+Thread_21 	 0	         0.00
+Thread_22 	 0	         0.00
+Thread_23 	 0	         0.00
+Thread_24 	 0	         0.00
+Thread_25 	 0	         0.00
+Thread_26 	 0	         0.00
+Thread_27 	 0	         0.00
+Thread_28 	 0	         0.00
+Thread_29 	 0	         0.00
+Thread_30 	 0	         0.00
+Thread_31 	 1	        14.81
+total 		 10	        19.18

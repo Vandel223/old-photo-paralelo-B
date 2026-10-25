@@ -1,0 +1,21 @@
+IST-0.jpeg 	 start 	         0.01
+IST-1.jpeg 	 start 	         0.31
+IST-2.jpeg 	 start 	         0.63
+IST-3.jpeg 	 start 	         0.90
+IST-4.jpeg 	 start 	         1.51
+IST-0.jpeg 	 end 	         2.07
+IST-5.jpeg 	 start 	         1.81
+IST-6.jpeg 	 start 	         2.10
+IST-7.jpeg 	 start 	         2.37
+IST-8.jpeg 	 start 	         2.67
+IST-1.jpeg 	 end 	         3.16
+IST-9.jpeg 	 start 	         3.00
+IST-2.jpeg 	 end 	         4.15
+IST-3.jpeg 	 end 	         6.89
+IST-4.jpeg 	 end 	         7.31
+IST-5.jpeg 	 end 	         8.36
+IST-6.jpeg 	 end 	         9.50
+IST-7.jpeg 	 end 	        10.56
+IST-8.jpeg 	 end 	        11.62
+IST-9.jpeg 	 end 	        12.63
+total 			        13.41

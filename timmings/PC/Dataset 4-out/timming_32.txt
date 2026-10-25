@@ -1,0 +1,65 @@
+IST-12.jpg		          1.93
+IST-30.jpg		          1.98
+IST-32.jpg		          1.99
+IST-22.jpg		          2.41
+IST-6.jpg		          2.42
+IST-18.jpg		          2.43
+IST-24.jpg		          2.56
+IST-16.jpg		          2.60
+IST-14.jpg		          2.60
+IST-20.jpg		          2.65
+IST-4.jpg		          2.66
+IST-26.jpg		          2.67
+IST-28.jpg		          2.67
+IST-10.jpg		          2.69
+IST-2.jpg		          2.71
+IST-8.jpg		          2.72
+IST-3.jpg		         25.24
+IST-31.jpg		         25.26
+IST-9.jpg		         25.32
+IST-17.jpg		         35.23
+IST-1.jpg		         47.38
+IST-19.jpg		         48.19
+IST-21.jpg		         50.17
+IST-7.jpg		         50.60
+IST-29.jpg		         51.66
+IST-15.jpg		         51.83
+IST-13.jpg		         53.99
+IST-23.jpg		         54.82
+IST-5.jpg		         55.12
+IST-25.jpg		         55.24
+IST-27.jpg		         59.19
+IST-11.jpg		         59.39
+Thread_0 	 1	        25.24
+Thread_1 	 1	         2.71
+Thread_2 	 1	         1.99
+Thread_3 	 1	         2.66
+Thread_4 	 1	        55.12
+Thread_5 	 1	         2.42
+Thread_6 	 1	        50.61
+Thread_7 	 1	         2.72
+Thread_8 	 1	        25.32
+Thread_9 	 1	         2.69
+Thread_10 	 1	        59.39
+Thread_11 	 1	         1.93
+Thread_12 	 1	        54.00
+Thread_13 	 1	         2.60
+Thread_14 	 1	        51.84
+Thread_15 	 1	         2.60
+Thread_16 	 1	        35.23
+Thread_17 	 1	         2.43
+Thread_18 	 1	        48.19
+Thread_19 	 1	         2.65
+Thread_20 	 1	        50.17
+Thread_21 	 1	         2.41
+Thread_22 	 1	        54.82
+Thread_23 	 1	         2.56
+Thread_24 	 1	        55.24
+Thread_25 	 1	         2.67
+Thread_26 	 1	        59.20
+Thread_27 	 1	         2.67
+Thread_28 	 1	        51.67
+Thread_29 	 1	         1.98
+Thread_30 	 1	        25.26
+Thread_31 	 1	        47.38
+total 		 32	        59.55

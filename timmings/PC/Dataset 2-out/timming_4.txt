@@ -1,0 +1,15 @@
+IST-2.jpeg		          4.89
+IST-1.jpeg		          5.11
+IST-0.jpeg		          5.15
+IST-4.jpeg		          4.86
+IST-6.jpeg		          4.64
+IST-5.jpeg		          4.68
+IST-3.jpeg		         10.04
+IST-7.jpeg		          5.10
+IST-9.jpeg		          5.07
+IST-8.jpeg		          5.10
+Thread_0 	 3	        14.87
+Thread_1 	 1	        10.04
+Thread_2 	 3	        14.85
+Thread_3 	 3	        14.90
+total 		 10	        15.01
